@@ -1,13 +1,17 @@
-# TenantAI web UI
-2024-11-18
+# Tenant.AI 
 
-This project serves as a functional representation of the web interface for the TenantAI tool.
+This repository contains the code to create a webapp that contains a chatbot capable of answering queries about tenants rights of residents in Massachusetts.
 
-The landing page contains a short description of the tool, references to external resources, and an AI-powered chatbot interface.
+## Structure
 
-The AI-powered chatbot is a placeholder--the fully-functional chatbot is located in a separate project, and the two projects will be combined for the final project submission.
+The repository is organized into two main folders:
 
-Login functionality will be implemented prior to the final submission as well.
+- `Web_Interface/`: Contains the React project that creates the user interface that contains resouces that might be useful for a resident as well as a chatbot interface.
+- `tenant-ai-chatbot/`: Contains the React project that creates a RAG powered chatbot capable of answering quering about tenants rights.
 
 
-To interact with the web interface, open a terminal or command prompt in the project directory and run "npm install" followed by "npm start".
+Currently, the RAG-based chatbot has not been integrated into the main webapp and is hence presented as two projects.
+
+## Screenshots for the interface created are [here](Screenshots/)
+
+## Feedback Plan for the Prototye is [here](HCI_High_Fidelity_Prototype_Feedback_Plan.pdf)
