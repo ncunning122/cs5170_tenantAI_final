@@ -12,6 +12,6 @@ The repository is organized into two main folders:
 
 Currently, the RAG-based chatbot has not been integrated into the main webapp and is hence presented as two projects.
 
-## Screenshots for the interface created are [here](Screenshots/)
+## Screenshots for the interfaces created are [here](Screenshots/)
 
-## Feedback Plan for the Prototye is [here](HCI_High_Fidelity_Prototype_Feedback_Plan.pdf)
+## Feedback Plan for the Prototype is [here](HCI_High_Fidelity_Prototype_Feedback_Plan.pdf)
